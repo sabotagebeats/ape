@@ -184,11 +184,3 @@ Ape also works as a package. You can use the same networks, accounts, and projec
     c.doThat({"from": a})  # Make Web3 transactions
     assert c.MyEvent[-1].caller == a  # Search through Web3 events
 
-
-
-Uninstall guide
-***************
-
-Should we include an uninstall process down below?
-keep the .ape folder so we don't delete the keys 
-
